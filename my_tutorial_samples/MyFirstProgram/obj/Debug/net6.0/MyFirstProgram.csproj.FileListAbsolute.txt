@@ -1,0 +1,15 @@
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.exe
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.deps.json
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.runtimeconfig.json
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.dll
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.dll
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\refint\MyFirstProgram.dll
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\Darthur\projects\git\csharp_project\my_tutorial_samples\MyFirstProgram\obj\Debug\net6.0\ref\MyFirstProgram.dll
